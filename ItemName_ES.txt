@@ -1,0 +1,33 @@
+ItemName_ES = {
+    -- nombre de semillas
+    MCM.Avocadoseed = "Semilla de aguacate",
+    MCM.AvocadoBagSeed = "Paquete de semillas de aguacate",
+
+    MCM.Pepperseed = "Semilla de pimiento",
+    MCM.PepperBagSeed = "Paquete de semillas de pimiento",
+
+    MCM.Cornseed = "Semilla de maíz",
+    MCM.CornBagSeed = "Paquete de semillas de maíz",
+
+    MCM.Eggplantseed = "Semilla de berenjena",
+    MCM.EggplantBagSeed = "Paquete de semillas de berenjena",
+
+    MCM.Leekseed = "Semilla de puerro",
+    MCM.LeekBagSeed = "Paquete de semillas de puerro",
+
+    MCM.Lettuceseed = "Semilla de lechuga",
+    MCM.LettuceBagSeed = "Paquete de semillas de lechuga",
+
+    MCM.Onionseed = "Semilla de cebolla",
+    MCM.OnionBagSeed = "Paquete de semillas de cebolla",
+
+    MCM.Watermelonseed = "Semilla de sandía",
+    MCM.WatermelonBagSeed = "Paquete de semillas de sandía",
+
+    MCM.Zucchiniseed = "Semilla de calabazín",
+    MCM.ZucchiniBagSeed = "Paquete de semillas de calabazín",
+ }
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
